@@ -86,7 +86,7 @@ Notebook'u açıp hücreleri sırayla çalıştırın. Model ilk çalıştırmad
 
 ---
 
-## Kurs Bilgisi
+## Ders Bilgisi
 
 Bu çalışma **BM5204 Doğal Dil İşleme** dersi kapsamında hazırlanmıştır.
 
